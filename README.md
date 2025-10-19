@@ -80,7 +80,7 @@ AutomaçãoPython/
 
 ---
 
-### 🧠 InteligênciaArtificial
+## 🧠 InteligênciaArtificial
 
 ### 📝 Descrição
 
