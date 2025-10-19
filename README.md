@@ -44,12 +44,14 @@ AnáliseDadosPython/
 Abra o notebook:
   jupyter notebook inicial.ipynb
 
-
+---
 
 ## ⚙️ AutomaçãoPython
 
 ### 📝 Descrição
 Script de automação de tarefas com a biblioteca PyAutoGUI, que realiza login em um sistema web, lê uma base de dados CSV com informações de produtos e cadastra automaticamente cada item no sistema.
+
+---
 
 ### ⚡ Funcionalidades
 - Acesso automático ao navegador e ao site da empresa
@@ -72,8 +74,38 @@ AutomaçãoPython/
 ### ▶️ Como executar
 ⚠️ Importante: Ajuste as coordenadas de clique (x, y) no script conforme a resolução da sua tela.
 1)
-pip install pyautogui pandas
+   pip install pyautogui pandas
 2)
-python automação.py
+   python automação.py
 
+---
+
+### 🧠 InteligênciaArtificial
+
+### 📝 Descrição
+
+---
+
+Projeto introdutório à Inteligência Artificial e Machine Learning, com notebooks demonstrando algoritmos de classificação, regressão e análise preditiva.
+Ideal para estudo de modelos básicos e aplicações práticas com bibliotecas populares.
+
+### 🧰 Tecnologias utilizadas
+Python 3.x
+Scikit-learn
+Pandas
+NumPy
+Matplotlib / Seaborn
+
+### 🗂️ Estrutura do projeto
+InteligênciaArtificial/
+│
+├── modelo1.ipynb      # Exemplos de IA/ML
+├── modelo2.ipynb      # Outros algoritmos
+└── dados/             # Conjunto de dados utilizados
+
+▶️ Como executar
+1) Instale as dependências:
+   pip install scikit-learn pandas numpy matplotlib seaborn jupyter
+2) Abra e execute os notebooks:
+   jupyter notebook
 
