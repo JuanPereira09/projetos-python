@@ -43,3 +43,37 @@ AnáliseDadosPython/
    pip install pandas matplotlib seaborn jupyter
 Abra o notebook:
   jupyter notebook inicial.ipynb
+
+
+
+## ⚙️ AutomaçãoPython
+
+### 📝 Descrição
+Script de automação de tarefas com a biblioteca PyAutoGUI, que realiza login em um sistema web, lê uma base de dados CSV com informações de produtos e cadastra automaticamente cada item no sistema.
+
+### ⚡ Funcionalidades
+- Acesso automático ao navegador e ao site da empresa
+- Login automatizado com usuário e senha
+- Leitura da base de dados via pandas
+- Cadastro automatizado de produtos
+- Rolagem e repetição do processo para todos os registros
+
+### 🧰 Tecnologias utilizadas
+- Python 3.x
+- PyAutoGUI
+- Pandas
+
+### 🗂️ Estrutura do projeto
+AutomaçãoPython/
+│
+├── automação.py    # Script principal
+└── produtos.csv    # Base de dados dos produtos
+
+### ▶️ Como executar
+⚠️ Importante: Ajuste as coordenadas de clique (x, y) no script conforme a resolução da sua tela.
+1)
+pip install pyautogui pandas
+2)
+python automação.py
+
+
