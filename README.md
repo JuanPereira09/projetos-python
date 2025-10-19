@@ -44,6 +44,14 @@ AnáliseDadosPython/
 Abra o notebook:
   jupyter notebook inicial.ipynb
 
+### Resultados 🚀
+
+<img width="1467" height="444" alt="image" src="https://github.com/user-attachments/assets/50b1df3d-ab69-452b-be81-03fbc31da837" />
+
+<img width="1452" height="386" alt="image" src="https://github.com/user-attachments/assets/c354e1b0-e721-4b60-a576-67bd094c314e" />
+
+<img width="1451" height="391" alt="image" src="https://github.com/user-attachments/assets/5c36482b-8082-4672-a791-ba9be48e68c9" />
+
 ---
 
 ## ⚙️ AutomaçãoPython
@@ -109,3 +117,7 @@ InteligênciaArtificial/
 2) Abra e execute os notebooks:
    jupyter notebook
 
+### Resultados 🚀
+
+<img width="1422" height="226" alt="image" src="https://github.com/user-attachments/assets/c49e01cd-8ede-4869-9e03-986e7e71d29b" />
+(Analisou o perfil de cada um dos 3 clientes e previu o score de cada um deles, usando árvore de decisão)
